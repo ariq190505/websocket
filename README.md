@@ -17,7 +17,9 @@ Artikel ini membahas tentang konsep dasar **WebSocket** dan bagaimana mengimplem
 - **CSS** - Styling sederhana untuk tampilan chat app.
 - **JavaScript** - Logika WebSocket client.
 
-## 📂 Struktur Proyek
+## 📂 Hasil Experiment
+![Screenshot 2025-04-29 114346](https://github.com/user-attachments/assets/92ca8d5d-cd4c-49f5-872d-4dda15b0f4de)
+
 
 
 ## ⚡ Cara Menjalankan
