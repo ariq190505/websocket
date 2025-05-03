@@ -18,7 +18,7 @@ Artikel ini membahas tentang konsep dasar **WebSocket** dan bagaimana mengimplem
 - **JavaScript** - Logika WebSocket client.
 
 ## 📂 Hasil Experiment
-![Screenshot 2025-04-29 114346](https://github.com/user-attachments/assets/92ca8d5d-cd4c-49f5-872d-4dda15b0f4de)
+![Screenshot 2025-05-01 010222](https://github.com/user-attachments/assets/18a7294a-a654-4c1c-9313-e057863c2f3c)
 
 
 
