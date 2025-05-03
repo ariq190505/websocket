@@ -35,6 +35,10 @@ Artikel ini membahas tentang konsep dasar **WebSocket** dan bagaimana mengimplem
 - Gunakan browser modern untuk dukungan WebSocket yang optimal.
 
 ---
+## Referensi 
+-Tutorial Membuat Aplikasi Chat dengan WebSocket dan Node.js
+-Dokumentasi Socket.IO
+-Artikel Medium: Chat App dengan WebSockets dan TypeScript
 
 📖 Ditulis oleh [@ariqibtihal19](https://medium.com/@ariqibtihal19)  
 Selamat belajar dan mencoba membangun aplikasi WebSocket-mu sendiri! 🚀
